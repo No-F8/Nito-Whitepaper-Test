@@ -1,19 +1,37 @@
-# Nito-Whitepaper
+# NITO Whitepaper
 
+The official whitepaper for the **NITO** blockchain is now live.
 
-The new Nito whitepaper is out!
+📄 **Version:** 1.1  
+📅 **Released:** July 2025
 
-What I need from you:
+---
 
-Read it quickly.
+## What We Need From You
 
-Tell me if anything is unclear, wrong, or missing.
+We’re asking the community to:
 
-Suggest additions or fixes
+- **Read it carefully**
+- **Report anything** that’s unclear, incorrect, or missing
+- **Suggest improvements or additions**
 
+---
 
+## View the Whitepaper
 
+- [**View in browser (mobile-friendly)**](https://nitonetwork.github.io/Nito-Whitepaper/)
+- [Download PDF](./Nito_Whitepaper.pdf)
+- [Download DOCX](./Nito_Whitepaper.docx)
 
-👇Click below to join the discussion👇
+---
 
-  ([Nito-Whitepaper-v1.0/discussions](https://github.com/NitoNetwork/Nito-Whitepaper-v1.0/discussions/1))
+## Join the Discussion
+
+Got ideas or feedback?
+
+([Nito-Whitepaper-v1.0/discussions](https://github.com/NitoNetwork/Nito-Whitepaper-v1.0/discussions/1))
+
+---
+
+## Built by the NITO community
+
